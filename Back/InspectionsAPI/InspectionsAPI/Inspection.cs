@@ -17,3 +17,6 @@ namespace InspectionsAPI
         public InspectionType? InspectionType { get; set; }
     }
 }
+
+
+// Add this to a folder - Pieter

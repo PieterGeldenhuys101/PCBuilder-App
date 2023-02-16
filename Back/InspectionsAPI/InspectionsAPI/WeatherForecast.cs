@@ -10,4 +10,4 @@ namespace InspectionsAPI
 
         public string? Summary { get; set; }
     }
-}
+} //
